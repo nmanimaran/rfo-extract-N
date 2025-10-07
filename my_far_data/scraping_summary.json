@@ -1,0 +1,303 @@
+{
+  "source": "https://www.acquisition.gov/far-overhaul/far-part-deviation-guide",
+  "scraped_at": "2025-10-07 09:36:51",
+  "output_directory": "/home/nmanimaran/rfo-extract-N/my_far_data",
+  "parts_count": 59,
+  "parts": [
+    {
+      "part_number": "1",
+      "title": "Part 1 - Federal Acquisition Regulations System",
+      "folder": "my_far_data/FAR_1"
+    },
+    {
+      "part_number": "2",
+      "title": "Part 2 - Definitions of Words and Terms",
+      "folder": "my_far_data/FAR_2"
+    },
+    {
+      "part_number": "3",
+      "title": "Part 3 - Improper Business Practices",
+      "folder": "my_far_data/FAR_3"
+    },
+    {
+      "part_number": null,
+      "title": "and Personal Conflicts of Interest",
+      "folder": "my_far_data/FAR_Unknown"
+    },
+    {
+      "part_number": "4",
+      "title": "Part 4 - Administrative and Information Matters",
+      "folder": "my_far_data/FAR_4"
+    },
+    {
+      "part_number": "5",
+      "title": "Part 5 - Publicizing Contract Actions",
+      "folder": "my_far_data/FAR_5"
+    },
+    {
+      "part_number": "6",
+      "title": "Part 6 - Competition Requirements",
+      "folder": "my_far_data/FAR_6"
+    },
+    {
+      "part_number": "7",
+      "title": "Part 7 - Acquisition Planning",
+      "folder": "my_far_data/FAR_7"
+    },
+    {
+      "part_number": "8",
+      "title": "Part 8 - Required Sources of Supplies and Services",
+      "folder": "my_far_data/FAR_8"
+    },
+    {
+      "part_number": "9",
+      "title": "Part 9 - Contractor Qualifications",
+      "folder": "my_far_data/FAR_9"
+    },
+    {
+      "part_number": "10",
+      "title": "Part 10 - Market Research",
+      "folder": "my_far_data/FAR_10"
+    },
+    {
+      "part_number": "11",
+      "title": "Part 11- Describing Agency Needs",
+      "folder": "my_far_data/FAR_11"
+    },
+    {
+      "part_number": "12",
+      "title": "Part 12 - Acquisition of Commercial Products",
+      "folder": "my_far_data/FAR_12"
+    },
+    {
+      "part_number": null,
+      "title": "and Commercial Services",
+      "folder": "my_far_data/FAR_Unknown"
+    },
+    {
+      "part_number": "13",
+      "title": "Part 13 - Simplified Procedures for Noncommercial Acquisitions",
+      "folder": "my_far_data/FAR_13"
+    },
+    {
+      "part_number": "14",
+      "title": "Part 14 -  Sealed Bidding",
+      "folder": "my_far_data/FAR_14"
+    },
+    {
+      "part_number": "15",
+      "title": "Part 15 - Contracting by Negotiation",
+      "folder": "my_far_data/FAR_15"
+    },
+    {
+      "part_number": "16",
+      "title": "Part 16 - Types of Contracts",
+      "folder": "my_far_data/FAR_16"
+    },
+    {
+      "part_number": "17",
+      "title": "Part 17 - Special Contracting Methods",
+      "folder": "my_far_data/FAR_17"
+    },
+    {
+      "part_number": "18",
+      "title": "Part 18 - Emergency Acquisitions",
+      "folder": "my_far_data/FAR_18"
+    },
+    {
+      "part_number": "19",
+      "title": "Part 19 - Small Business",
+      "folder": "my_far_data/FAR_19"
+    },
+    {
+      "part_number": "22",
+      "title": "Part 22 - Application of Labor Laws to",
+      "folder": "my_far_data/FAR_22"
+    },
+    {
+      "part_number": null,
+      "title": "Government Acquisitions",
+      "folder": "my_far_data/FAR_Unknown"
+    },
+    {
+      "part_number": "23",
+      "title": "Part 23 - Sustainable Acquisition, Material Safety,",
+      "folder": "my_far_data/FAR_23"
+    },
+    {
+      "part_number": null,
+      "title": "and Pollution Prevention",
+      "folder": "my_far_data/FAR_Unknown"
+    },
+    {
+      "part_number": "24",
+      "title": "Part 24 - Protection of Privacy and Freedom of Information",
+      "folder": "my_far_data/FAR_24"
+    },
+    {
+      "part_number": "25",
+      "title": "Part 25 - Foreign Acquisition",
+      "folder": "my_far_data/FAR_25"
+    },
+    {
+      "part_number": "26",
+      "title": "Part 26 - Other Socioeconomic Programs",
+      "folder": "my_far_data/FAR_26"
+    },
+    {
+      "part_number": "27",
+      "title": "Part 27 - Patents, Data, and Copyrights",
+      "folder": "my_far_data/FAR_27"
+    },
+    {
+      "part_number": "28",
+      "title": "Part 28 - Bonds and Insurance",
+      "folder": "my_far_data/FAR_28"
+    },
+    {
+      "part_number": "29",
+      "title": "Part 29 - Taxes",
+      "folder": "my_far_data/FAR_29"
+    },
+    {
+      "part_number": "30",
+      "title": "Part 30 - Cost Accounting Standards Administration",
+      "folder": "my_far_data/FAR_30"
+    },
+    {
+      "part_number": "31",
+      "title": "Part 31 - Contract Cost Principles and Procedures",
+      "folder": "my_far_data/FAR_31"
+    },
+    {
+      "part_number": "32",
+      "title": "Part 32 - Contract Financing",
+      "folder": "my_far_data/FAR_32"
+    },
+    {
+      "part_number": "33",
+      "title": "Part 33 - Protests, Disputes, and Appeals",
+      "folder": "my_far_data/FAR_33"
+    },
+    {
+      "part_number": "34",
+      "title": "Part 34 - Major System Acquisition",
+      "folder": "my_far_data/FAR_34"
+    },
+    {
+      "part_number": "35",
+      "title": "Part 35 - Research and Development Contracting",
+      "folder": "my_far_data/FAR_35"
+    },
+    {
+      "part_number": "36",
+      "title": "Part 36 - Construction and Architect-Engineer",
+      "folder": "my_far_data/FAR_36"
+    },
+    {
+      "part_number": null,
+      "title": "Contracts",
+      "folder": "my_far_data/FAR_Unknown"
+    },
+    {
+      "part_number": "37",
+      "title": "Part 37 - Service Contracting",
+      "folder": "my_far_data/FAR_37"
+    },
+    {
+      "part_number": "38",
+      "title": "Part 38 - Reserved",
+      "folder": "my_far_data/FAR_38"
+    },
+    {
+      "part_number": "39",
+      "title": "Part 39 - Acquisition of Information",
+      "folder": "my_far_data/FAR_39"
+    },
+    {
+      "part_number": null,
+      "title": "and Communication Technology",
+      "folder": "my_far_data/FAR_Unknown"
+    },
+    {
+      "part_number": "40",
+      "title": "Part 40 - Information Security and Supply",
+      "folder": "my_far_data/FAR_40"
+    },
+    {
+      "part_number": null,
+      "title": "Chain Security",
+      "folder": "my_far_data/FAR_Unknown"
+    },
+    {
+      "part_number": "41",
+      "title": "Part 41 - Acquisition of Utility Services",
+      "folder": "my_far_data/FAR_41"
+    },
+    {
+      "part_number": "42",
+      "title": "Part 42 - Contract Administration and Audit Services",
+      "folder": "my_far_data/FAR_42"
+    },
+    {
+      "part_number": "43",
+      "title": "Part 43 - Contract Modifications",
+      "folder": "my_far_data/FAR_43"
+    },
+    {
+      "part_number": "44",
+      "title": "Part 44 - Subcontracting Policies and Procedures",
+      "folder": "my_far_data/FAR_44"
+    },
+    {
+      "part_number": "45",
+      "title": "Part 45 - Government Property",
+      "folder": "my_far_data/FAR_45"
+    },
+    {
+      "part_number": "46",
+      "title": "Part 46 - Quality Assurance",
+      "folder": "my_far_data/FAR_46"
+    },
+    {
+      "part_number": "47",
+      "title": "Part 47 - Transportation",
+      "folder": "my_far_data/FAR_47"
+    },
+    {
+      "part_number": "48",
+      "title": "Part 48 - Value Engineering",
+      "folder": "my_far_data/FAR_48"
+    },
+    {
+      "part_number": "49",
+      "title": "Part 49 - Termination of Contracts",
+      "folder": "my_far_data/FAR_49"
+    },
+    {
+      "part_number": "50",
+      "title": "Part 50 - Extraordinary Contractual Actions",
+      "folder": "my_far_data/FAR_50"
+    },
+    {
+      "part_number": null,
+      "title": "and the safety act",
+      "folder": "my_far_data/FAR_Unknown"
+    },
+    {
+      "part_number": "51",
+      "title": "Part 51 - Reserved",
+      "folder": "my_far_data/FAR_51"
+    },
+    {
+      "part_number": "52",
+      "title": "Part 52 - Solicitation Provisions and Contract Clauses",
+      "folder": "my_far_data/FAR_52"
+    },
+    {
+      "part_number": "53",
+      "title": "Part 53 - Forms",
+      "folder": "my_far_data/FAR_53"
+    }
+  ]
+}
