@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PGI 204.201 Unique procurement instrument identifiers</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        h1 {
+            color: #333;
+            border-bottom: 2px solid #333;
+            padding-bottom: 10px;
+        }
+        .content {
+            white-space: pre-wrap;
+            word-wrap: break-word;
+        }
+        .content table {
+            white-space: normal;
+            border-collapse: collapse;
+            width: 100%;
+            margin: 12px 0;
+        }
+        .content table th,
+        .content table td {
+            border: 1px solid #ccc;
+            padding: 6px 10px;
+            text-align: left;
+            vertical-align: top;
+        }
+        .content table th {
+            background-color: #f0f0f0;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>PGI 204.201 Unique procurement instrument identifiers</h1>
+    <div class="content">(b)  DoD-issued PIIDs are thirteen characters in length.  Use only alpha-numeric 
+characters, as prescribed in FAR 4.201 and this subpart.  Do not use the letter I or O in 
+any part of the PIID.
+
+(1) <em>Position 9. </em>
+
+(i)  DoD will use three of the letters reserved for departmental or agency use 
+in FAR 4.201(b)(3), Table 4-1 in this position as follows:
+
+(A) Use M to identify purchase orders and task or delivery orders issued 
+by the enterprise FedMall system.
+
+(B) Use S to identify broad agency announcements and commercial 
+solutions openings.
+
+(C) Use T to identify automated requests for quotations by authorized 
+legacy contract writing systems.  Legacy contract writing systems authorized to use the 
+letter T in position 9 of the PIID for automated requests for quotation include the 
+following:
+
+<em>(1)</em>  Department of Navy’s Item Management and Procurement 
+(ITIMP) system.
+
+<em>(2)</em>  Defense Logistics Agency’s Enterprise Business System (EBS).
+
+(ii)  Do not use other letters identified in FAR 4.201(b)(3), Table 4-1 as 
+“Reserved for future Federal Governmentwide use” or “Reserved for departmental or 
+agency use” in position 9 of the PIID.
+
+(iii)  Do not use the letter C or H for contracts or agreements with provisions 
+for orders or calls.
+
+(2) <em>Positions 10 through 17.  </em>In accordance with FAR 4.201(b)(4), DoD-issued 
+PIIDs must only use positions 10 through 13 to complete the PIID.  Enter the serial 
+number of the instrument in these positions.  A separate series of serial numbers may 
+be used for any type of instrument listed in FAR 4.201(b)(3), Table 4-1.  DoD 
+components assign such series of PIID numbers sequentially.  A DoD component may 
+reserve blocks of numbers or alpha-numeric numbers for use by its various activities.  
+Use C in position 10 to identify the solicitation as a commercial solutions opening.
+
+(c)(1)  <em>Positions 2 through 6.  </em>In accordance with FAR 4.201(b)(3), DoD-issued 
+supplementary PIIDs must, for positions 2 through 6 of modifications to contracts and 
+agreements, comply with the following:
+
+(i)  <em>Positions 2 and 3.  </em>These two digits may be either alpha or numeric 
+characters, except—
+
+(A)  Use K, L, M, N, P, and Q only in position 2, and only if the 
+modification is issued by the Air Force and is a provisioned item order;
+
+(B)  Use S only in position 2, and only to identify modifications issued to 
+provide initial or amended shipping instructions when—
+
+<em>(1)</em>  The contract has either FOB origin or destination delivery 
+terms; and
+
+<em>(2)</em> The price changes;
+
+(C) Use T, U, V, W, X, or Y only in position 2, and only to identify 
+modifications issued to provide initial or amended shipping instructions when—
+
+(<em>1</em>) The contract has FOB origin delivery terms; and
+
+(<em>2</em>) The price does not change; and
+
+(D) Use Z only in position 2, and only to identify a modification which 
+definitizes a letter contract or a previously issued undefinitized modification.
+
+(<em>2</em>)  <em>Positions 4 through 6.  </em>These positions are always numeric.  Use a separate 
+series of serial numbers for each type of modification listed in paragraph (c)(1) of this 
+section.
+
+(3)  <em>Positions 10 through 17</em>.  Positions 10 through 13 of a DoD-issued PIID 
+must not be a sequence of four zeroes (i.e., “0000”).
+
+(4)  The following are elements and examples of proper supplementary PIID 
+numbering.
+
+(i)  Position 1.  Use a “U” in position 1 (e.g., “U00001”) in lieu of an “A” or “P”, 
+as necessary, to process draft modifications through contract writing systems and 
+associated applications.  Change the “U” to an “A” or “P” prior to award to comply with 
+FAR and DFARS standards.
+
+(ii)  Positions 2 through 6.  Examples of proper numbering for positions 2 
+through 6 are as follows:
+
+<table>
+<tr><th>Normal modification</th><th>Provisioned items order (reserved for exclusive use by the Air Force only)</th><th>Shipping Instructions</th></tr>
+<tr><td>00001 - 99999</td><td>K0001 - K9999</td><td>S0001 - S9999</td></tr>
+<tr><td>then</td><td>KA001 - KZ999</td><td>SA001 - SZ999</td></tr>
+<tr><td>A0001 A9999</td><td>L0001 - L9999</td><td>T0001 - T9999</td></tr>
+</table>
+
+<table>
+<tr><th>Normal modification</th><th>Provisioned items order (reserved for exclusive use by the Air Force only)</th><th>Shipping Instructions</th></tr>
+<tr><td>B0001 - B9999</td><td>LA001 - LZ999</td><td>TA001 - TZ999</td></tr>
+<tr><td>and so on to</td><td>M0001 - M9999</td><td>U0001 - U9999</td></tr>
+<tr><td>H0001 - H9999</td><td>MA001 - MZ999</td><td>UA001 - UZ999</td></tr>
+<tr><td>then</td><td>N0001 - N9999</td><td>V0001 - V9999</td></tr>
+<tr><td>J0001 J9999</td><td>NA001 - NZ999</td><td>VA001 - VZ999</td></tr>
+<tr><td>then</td><td>P0001 - P9999</td><td>W0001 - W9999</td></tr>
+<tr><td>R0001 - R9999</td><td>PA001 - PZ999</td><td>WA001 - WZ999</td></tr>
+<tr><td>then</td><td>Q0001 - Q9999</td><td>X0001 - X9999</td></tr>
+<tr><td>AA001 - HZ999 then</td><td>QA001 - QZ999</td><td>XA001 - XZ999</td></tr>
+<tr><td>JA001 - - JZ999</td><td></td><td>Y0001 - Y9999</td></tr>
+<tr><td>RA001 - RZ999</td><td></td><td>YA001 - YZ999</td></tr>
+</table>
+
+(iii)  If the contract administration office is changing the contract 
+administration or disbursement office for the first time and is using computer generated 
+modifications to notify many offices, it uses the six position supplementary number 
+ARZ999.  If either office has to be changed again during the life of the contract, the 
+supplementary number will be ARZ998, and on down as needed.</div>
+</body>
+</html>
